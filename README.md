@@ -1,10 +1,11 @@
 ### <div align="center">Hi 👋 I'm Ronnie!</div>  
-  
+<div align="center">
+🚀 I’ve moved most of my active development to <a href="https://git.ronniie.com" target="_blank"><b>git.ronniie.com</b></a>  
+</div>  
+
+----
 
 <div align="center">I am a full-time mechanical designer and the founder of a software development company. Concurrently, I am pursuing my PhD in Computer Science. </div>  
-  
-
-- 🔭 I’m currently working on [Storvana](https://storvana.com)  
   
 
 - 🌱 I’m currently learning GO and Kubernetes  
